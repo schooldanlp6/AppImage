@@ -5,4 +5,4 @@ This brings the latest spotify version to arch
 
 # Names
 spo = Spotify - minimal
-spoN = Spotify with browser. I can recommend this for authentification
+spoN = is spotify extracted squashfs just use this one to authenticate
