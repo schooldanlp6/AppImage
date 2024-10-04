@@ -4,4 +4,5 @@ This brings the latest spotify version to arch
 
 
 # Names
-spo = Spotify
+spo = Spotify - minimal
+spoN = Spotify with browser. I can recommend this for authentification
